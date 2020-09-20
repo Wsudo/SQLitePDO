@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Wsudo\\SQLitePDO\\": "src/"
+            "Wsudo\\SQLitePDO": "src/"
         }
     }
 }

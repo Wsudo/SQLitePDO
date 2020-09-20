@@ -1,0 +1,34 @@
+{
+    "name": "wsudo/sqlite-pdo",
+    "describtion": "The SQLite PDO Multi & Single Generator",
+    "version": "1.0.0",
+    "type": "project",
+    "time": "2020-9-13",
+    "keywords": [
+        "Wsudo SQLitePDO ",
+        "SQLite PDO",
+        "SQLitePDO",
+        "SQLite PDO Generator"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mahdi Omati",
+            "email": "WsudoPHP@gmail.com"
+        }
+    ],
+    "support": {
+        "email": "WsudoPHP@gmail.com",
+        "issues": "http://github.com/wsudo/SQLitePDO/issues",
+        "chat": "http://t.me/Wsudo"
+    },
+    "require": {
+        "php": ">=7.2",
+        "ext-pdo": ">=1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wsudo\\SQLitePDO\\": "src/"
+        }
+    }
+}
